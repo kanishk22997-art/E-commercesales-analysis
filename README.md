@@ -6,9 +6,9 @@ E-commerce sales data analysis project using Python (Pandas, Matplotlib) with in
 - Profit is positively correlated with sales
 - Furniture has moderate sales but stable profit
 ## Visualizations
-![Sales Trend](images/sales_trend(1).png)
-![Category Sales](images/category_sales.png)
-![Profit vs Sales](images/profit_scatter.png)
+![Sales Trend](sales_trend(1).png)
+![Category Sales](category_sales.png)
+![Profit vs Sales](profit_scatter.png)
 ## Recommendations
 - Focus more on Electronics category
 - Improve marketing for Clothing category
